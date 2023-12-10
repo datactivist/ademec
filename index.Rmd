@@ -200,12 +200,25 @@ Des premières initiatives locales à la mise en œuvre de la loi pour une Répu
 .footnote[illustration : hackathon covid ]
 ]
 
---- 
+---
 .red[**Chapitre 5**]
 
 <h3 style="margin-top:0px;margin-bottom:0px"> Un renouvellement de la transparence .red[en demi-teinte] </h3>
 
+.pull-left[
+Les fondements juridiques instables de la transparence administrative
 
+L’open data : un carburant pour les « machines à scandale » ?
+
+Des données « inoffensives » ?
+
+Faut-il produire ses propres données ?
+]
+
+.pull-right[
+
+
+]
 ---
 
 # Merci !
