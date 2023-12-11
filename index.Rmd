@@ -189,6 +189,7 @@ Faut-il produire ses propres données ?
 
 .pull-right[
 
+![](img/courdescomptes2.png)
 
 ]
 ---
