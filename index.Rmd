@@ -139,36 +139,22 @@ Open data : accès à la matière première de l’information et du savoir. Ref
 ]
 
 ---
+.pull-left[
 .red[**Chapitre 1**]
-
-<h3 style="margin-top:0px"> Les racines multiples de l'open data </h3>
-Loin d'être un phénomène récent, un héritage historique et conceptuel varié : 
-
-.pull-left[
-
-1. transparence et le droit d’accès à l’information
-2. la liberté de l’information et le logiciel libre
-3. le partage des données de la recherche
-4. la modernisation des administrations
-5. les industries de l’information 
-6. l’entrainement des modèles d’intelligence artificielle.
-]
-
+<h3 style="margin-top:0px;margin-bottom:0px"> Les racines multiples de l'open data </h3>
+Loin d'être un phénomène récent, un héritage historique et conceptuel varié :
+![](img/magic-cube-cube-puzzle-play-54101-removebg-preview.png)]
+--
 .pull-right[
-
-![](img/magic-cube-cube-puzzle-play-54101-removebg-preview.png)
-]
----
-.pull-left[
-.red[**Chapitre 2**]
+.red[Chapitre 2]
 
 <h3 style="margin-top:0px;margin-bottom:0px"> Vers une .red[troisième vague] de l'open data ? </h3>
 
 .reduite[![](img/third-wave.png)]
 ]
 
---
-.pull-right[
+---
+.pull-left[
 .red[**Chapitre 3**]
 
 <h3 style="margin-top:0px;margin-bottom:0px"> L’ancrage .red[instable] de l’ouverture des données dans l’administration </h3>
@@ -176,28 +162,12 @@ Des premières initiatives locales à la mise en œuvre de la loi pour une Répu
 
 .center[![](img/lemaire.png)]
 ]
----
-
-.red[**Chapitre 4**]
-
-<h3 style="margin-top:0px;margin-bottom:0px"> La pandémie de Covid-19, un .red[moment charnière] pour l’open data </h3>
-
-.pull-left[
-- Des premières ouvertures de données incitées par des initiatives citoyennes
-
-- Des données réutilisées massivement, une relance de la politique d’ouverture des données
-
-- L’émergence des médiateurs
-
-- La pandémie : collaboration ou concurrence entre l’État et la société civile
-
-- L’open data : une arme anti-complotisme ?
-]
-
+--
 .pull-right[
+.red[**Chapitre 4**]
+<h3 style="margin-top:0px;margin-bottom:0px"> La pandémie de Covid-19, un .red[moment charnière] </h3>
 
 ![](img/hackathoncovid.png)
-.footnote[illustration : hackathon covid ]
 ]
 
 ---
@@ -220,7 +190,45 @@ Faut-il produire ses propres données ?
 
 ]
 ---
+.red[**Chapitre 5**]
 
+<h3 style="margin-top:0px;margin-bottom:0px"> Un renouvellement de la transparence .red[en demi-teinte] </h3>
+
+.pull-left[
+Les fondements juridiques instables de la transparence administrative
+
+L’open data : un carburant pour les « machines à scandale » ?
+
+Des données « inoffensives » ?
+
+Faut-il produire ses propres données ?
+]
+
+.pull-right[
+
+]
+
+---
+.red[**Chapitre 6**]
+
+<h3 style="margin-top:0px;margin-bottom:0px"> Des promesses démesurées de .red[croissance et d’innovation] </h3>
+
+.pull-left[
+Le « nouveau pétrole » : des conjectures de croissance et d’emploi disproportionnées
+
+Un impact en deçà des attentes sur la création d’emploi
+
+Des données souvent introuvables et mal documentées
+
+Des données pas encore assez fiables pour créer des services pérennes
+]
+
+.pull-right[
+
+![](img/preische.png)
+]
+
+---
 # Merci !
 
 Contact : [samuel@datactivist.coop](mailto:samuel@datactivist.coop)
